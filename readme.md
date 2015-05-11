@@ -1,6 +1,6 @@
 # Microsoft: DEV201x Introduction to TypeScript
 
-### This repository was moved to a private repository on Bitbucket
+### This repository is now in a private repository on Bitbucket
 (Honor Code at edX: "Not post answers to problems that are being used to assess student performance.")
 
 #### Instructors
