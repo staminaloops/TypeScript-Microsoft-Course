@@ -1,6 +1,8 @@
 # Microsoft: DEV201x Introduction to TypeScript
 
-### This repository is now in a private repository on Bitbucket
+With the announce that Angular 2.0 will now be built with TypeScript, and that TypeScript is a statically typed superset of JavaScript that compiles to plain JavaScript, with ES6 features (VERY important to me - I <3 JavaScript), I decided to take this course.
+
+**The assessments's source code is now in a private repository on Bitbucket**
 (Honor Code at edX: "Not post answers to problems that are being used to assess student performance.")
 
 #### Instructors
