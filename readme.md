@@ -3,24 +3,25 @@
 ### This repository was moved to a private repository on Bitbucket
 (Honor Code at edX: "Not post answers to problems that are being used to assess student performance.")
 
-* Instructors
+#### Instructors
 
-Anders Hejlsberg - Anders is a prominent Danish software engineer who co-designed several popular
+*Anders Hejlsberg* - Anders is a prominent Danish software engineer who co-designed several popular
 and commercially successful programming languages and development tools. He was the original author
 of Turbo Pascal and the chief architect of Delphi. He currently works for Microsoft as the lead architect
 of C# and core developer on TypeScript.
 
-Dan Wahlin - Dan Wahlin founded The Wahlin Group (http://www.TheWahlinGroup.com) which
+*Dan Wahlin* - Dan Wahlin founded The Wahlin Group (http://www.TheWahlinGroup.com) which
 provides consulting and training services on Web technologies such as JavaScript, TypeScript, jQuery,
 AngularJS, SPAs, HTML5, ASP.NET and SharePoint. Dan is a Microsoft Regional Director and has been
 awarded Microsoft's MVP award multiple times for ASP.NET, Connected Systems and Silverlight. Dan
 blogs at http://weblogs.asp.net/dwahlin and writes regular columns for various technical magazines.
 Follow Dan on Twitter @DanWahlin.
 
-* Prerequisites
+#### Prerequisites
+
 Working knowledge of JavaScript and experience coding in an object-oriented programming language.
 
-* Time Commitment and Schedule
+#### Time Commitment and Schedule
 
 3-5 hours per week for 6 weeks. Also note that all deadlines and release times are in UTC. This
 course will cover the following topics:
