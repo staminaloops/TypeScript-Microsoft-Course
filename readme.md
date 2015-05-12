@@ -1,6 +1,7 @@
 # Microsoft: DEV201x Introduction to TypeScript
 
 With the announce that Angular 2.0 will now be built with TypeScript, and that TypeScript is a statically typed superset of JavaScript that compiles to plain JavaScript, with ES6 features (VERY important to me - I <3 JavaScript), I decided to take this course.
+https://courses.edx.org/courses/course-v1:Microsoft+DEV201x+2015_T2/info
 
 **The assessments's source code is now in a private repository on Bitbucket**
 (Honor Code at edX: "Not post answers to problems that are being used to assess student performance.")
