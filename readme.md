@@ -6,6 +6,8 @@ https://courses.edx.org/courses/course-v1:Microsoft+DEV201x+2015_T2/info
 **The assessments's source code is now in a private repository on Bitbucket**
 (Honor Code at edX: "Not post answers to problems that are being used to assess student performance.")
 
+**Certificate** (successfully completed, received a passing grade) - https://verify.edx.org/cert/21b1d86b88374c55a9492e9c54626af1
+
 #### Instructors
 
 *Anders Hejlsberg* - Anders is a prominent Danish software engineer who co-designed several popular
